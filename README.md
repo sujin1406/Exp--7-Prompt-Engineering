@@ -58,5 +58,7 @@ Document differences and improvements.
 
 Output:
 
+https://docs.google.com/document/d/1rjK9uijyJqafeX88iuy5jSvDTKOu5Iqp/edit?usp=sharing&ouid=115434209074442153787&rtpof=true&sd=true
+
 Result:
 Thus, the original image was successfully reproduced using prompt engineering techniques and AI image generation tools.
